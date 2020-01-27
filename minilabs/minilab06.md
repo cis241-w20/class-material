@@ -1,6 +1,8 @@
 # Minilab 06
 
-1. Clone `git@github.com:cis241-w20/minilab06.git`
+1. Clone `git@github.com:cis241-w20/minilab06.git` or
+   if you don't have ssh keys setup
+   `https://github.com/cis241-w20/minilab06.git`
 2. Create a new branch (with your github username as the
    branch name to ensure no one tries to use the same name).
 3. Create, add, commit, and push a file with 6
