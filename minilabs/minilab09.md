@@ -1,4 +1,4 @@
-# Minilab 08
+# Minilab 09
 
 Last time, we created a script based on our project
 commands that took in 2 arguments:
