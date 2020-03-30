@@ -23,5 +23,5 @@ int main(void) {
     printf("mat[1] = %p, mat+1 = %p, *(mat+1) = %p\n", mat[1], mat+1, *(mat+1));
     // Accessing into column
     printf("mat[1][2] = %d, *(mat[1] + 2) = %d, *(*(mat+1) + 2) = %d\n", mat[1][2], *(mat[1] + 2), *(*(mat+1) + 2));
-    printf("*((mat+1)+2) = %d\n", *((mat+1)+2));
+    printf("*((mat+1)+2) = %d\n", *((mat+1)+2));  // Kept advancing by rows
 }
